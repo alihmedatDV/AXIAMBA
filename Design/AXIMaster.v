@@ -1,3 +1,8 @@
+// ==========================================
+// Title:  AMBA AXI Master Module
+// Author: Ali Hmedat
+// Date:   23 Jan 2019
+// ==========================================
 module AXI_master #(parameter WIDTH, SIZE)
 	(
 input clk, resetn,

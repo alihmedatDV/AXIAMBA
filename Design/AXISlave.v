@@ -1,3 +1,8 @@
+// ==========================================
+// Title:  AMBA AXI Slave Module
+// Author: Ali Hmedat
+// Date:   21 Jan 2019
+// ==========================================
 module AXI_slave(
 input	clk, resetn,
 axi.slave axis,

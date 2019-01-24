@@ -1,4 +1,8 @@
-
+// ==========================================
+// Title:  AMBA AXI Top Level Module
+// Author: Ali Hmedat
+// Date:   24 Jan 2019
+// ==========================================
 module AXI_top_design #(parameter WIDTH, SIZE)
 	(
 	input	logic	clk,
